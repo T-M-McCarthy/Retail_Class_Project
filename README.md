@@ -1,7 +1,7 @@
 # Retail_Class_Project
 Computer Science Final Group Project 
 
-Worked with 4 other individuals and led the team to create customers to shop for items within a store with the ability to sign up for a loyalty card membership to receive discounts.
+Led a team of 4 to create an application for customers to shop for items within a store with the ability to sign up for a loyalty card membership to receive discounts.
 
 Demonstrates the following Java fundamentals:
 1. Classes and objects
